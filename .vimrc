@@ -1,0 +1,1 @@
+so ~/.vim/jad.vim
